@@ -1,6 +1,4 @@
-![image](../code/frontend/src/images/logo.png)
-
-# YarXiver
+# <img src="../code/frontend/src/images/logo.png" width="150">
 
 📖 YarXiver is a fancy literature management system to help users collect, organize, search, recommend, cite, and view arXiv papers.  
 
