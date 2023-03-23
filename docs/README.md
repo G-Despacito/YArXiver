@@ -84,4 +84,4 @@ Third-party APIs used include
 - arxiv
 - arxiv2bib  
 
-# Author： YArXiver Team
+Author： YArXiver Team
